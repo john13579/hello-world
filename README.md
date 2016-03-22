@@ -1,2 +1,4 @@
 # hello-world
-start-up
+Hello world!
+Oz here. I like to code and drinking coffee.
+
